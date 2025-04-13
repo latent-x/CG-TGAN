@@ -3,6 +3,8 @@ This code is the implementation of "CG-TGAN: Conditional Generative Adversarial 
 
 The paper has been accepted by AAAI 2025.
 
+Paper Link: https://doi.org/10.1609/aaai.v39i17.33996
+
 ## Requirements
 * requirement.txt
 * We experimented with T4 and L4 GPUs in the Google Colab environment. 
